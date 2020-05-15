@@ -1,5 +1,5 @@
 import React from 'react';
-import { Icon } from 'framework7-react';
+import { Icon } from 'framework7-cn-react';
 
 const Rating = ({ rating }) => {
   function icon(n) {

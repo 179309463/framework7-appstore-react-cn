@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardContent } from 'framework7-react';
+import { Card, CardContent } from 'framework7-cn-react';
 import AppsTableList from './AppsTableList';
 import './AppstoreCard.less';
 

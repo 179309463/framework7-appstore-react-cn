@@ -7,7 +7,7 @@ import {
   View,
   Toolbar,
   Link,
-} from 'framework7-react';
+} from 'framework7-cn-react';
 
 import PWA from '../js/pwa';
 import routes from '../js/routes';

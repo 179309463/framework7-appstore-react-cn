@@ -2,7 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Framework7React from 'framework7-react';
+import Framework7React from 'framework7-cn-react';
 import Framework7, { Device } from './framework7-custom';
 
 import '../css/framework7-custom.less';

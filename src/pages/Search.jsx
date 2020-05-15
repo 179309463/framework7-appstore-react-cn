@@ -2,7 +2,7 @@ import React from 'react';
 
 import {
   Block,
-} from 'framework7-react';
+} from 'framework7-cn-react';
 
 import AppstorePage from '../components/AppstorePage';
 

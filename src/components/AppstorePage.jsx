@@ -1,5 +1,5 @@
 import React from 'react';
-import { Page, Navbar } from 'framework7-react';
+import { Page, Navbar } from 'framework7-cn-react';
 import AppstorePageTitle from './AppstorePageTitle';
 import './AppstorePage.less';
 

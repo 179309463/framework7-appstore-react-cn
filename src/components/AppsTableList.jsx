@@ -1,5 +1,5 @@
 import React from 'react';
-import { List, ListItem, Button } from 'framework7-react';
+import { List, ListItem, Button } from 'framework7-cn-react';
 
 import './AppsTableList.less';
 

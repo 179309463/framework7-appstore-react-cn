@@ -6,7 +6,7 @@ import {
   Link,
   List,
   ListItem,
-} from 'framework7-react';
+} from 'framework7-cn-react';
 
 import { apps } from '../js/data';
 

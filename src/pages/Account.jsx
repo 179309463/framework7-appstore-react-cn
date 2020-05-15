@@ -7,7 +7,7 @@ import {
   List,
   ListItem,
   ListButton,
-} from 'framework7-react';
+} from 'framework7-cn-react';
 
 import './Account.less';
 import avatarSrc from '../assets/avatar.jpeg';

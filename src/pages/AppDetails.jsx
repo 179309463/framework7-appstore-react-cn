@@ -13,7 +13,7 @@ import {
   Icon,
   List,
   ListItem,
-} from 'framework7-react';
+} from 'framework7-cn-react';
 
 import RatingStars from '../components/RatingStars';
 import AppstoreBlockTitle from '../components/AppstoreBlockTitle';

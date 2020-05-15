@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'framework7-react';
+import { Link } from 'framework7-cn-react';
 
 import './FeaturedApps.less';
 
